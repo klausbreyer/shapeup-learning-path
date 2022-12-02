@@ -1,8 +1,5 @@
-![rendered image description](relative/path/to/rendered_image. svg or png )
-<details>
-  <summary>Shape Up Learning Path</summary>
-  This details block is collapsed by default when viewed in GitHub. This hides the mermaid graph definition, while the rendered image
-  linked above is shown. The details tag has to follow the image tag. (newlines allowed)
+# Shape Up Learning Path
+
 
 ```mermaid
 graph TD
@@ -26,7 +23,7 @@ graph TD
     end
 
 
-U --> Education
+U --> A
 A -->|german?| SDDC
 SDDC --> B
 A --> B
@@ -47,4 +44,4 @@ click F "https://youtu.be/jnW0fAIpLbo" _blank
 click D "https://discourse.learnshapeup.com/" _blank
 click P "https://www.youtube.com/watch?v=h_8M23wVjXk&list=PLh2qZ3Zp-Xw2Q-H3lSjkEPhBYzvkDt6mY" _blank
 ```
-</details>
+
