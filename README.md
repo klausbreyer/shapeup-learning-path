@@ -23,7 +23,7 @@ graph TD
     end
 
 
-U --> A
+U --> Education
 A -->|german?| SDDC
 SDDC --> B
 A --> B
@@ -33,9 +33,7 @@ B --> S
 S --> F
 S --> P
 
-
-
-click A "https://www.github.com" _blank
+click A "https://www.youtube.com/watch?v=h_8M23wVjXk" _blank
 click SDDC "https://superdev.club/podcasts/shape-up/" _blank
 click B "https://basecamp.com/shapeup" _blank
 click M "https://www.meetup.com/de-DE/shapeup-practitioners/" _blank
