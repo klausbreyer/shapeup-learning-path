@@ -1,6 +1,5 @@
 # Shape Up Learning Path
 
-
 ```mermaid
 graph TD
     subgraph Realization
@@ -23,7 +22,7 @@ graph TD
     end
 
 
-U --> Education
+U --> A
 A -->|german?| SDDC
 SDDC --> B
 A --> B
@@ -40,6 +39,7 @@ click M "https://www.meetup.com/de-DE/shapeup-practitioners/" _blank
 click R "https://feltpresence.com/srl/" _blank
 click F "https://youtu.be/jnW0fAIpLbo" _blank
 click D "https://discourse.learnshapeup.com/" _blank
-click P "https://www.youtube.com/watch?v=h_8M23wVjXk&list=PLh2qZ3Zp-Xw2Q-H3lSjkEPhBYzvkDt6mY" _blank
+click P "https://youtu.be/h_8M23wVjXk" _blank
+click S "https://www.youtube.com/watch?v=jnW0fAIpLbo" _blank
 ```
 
