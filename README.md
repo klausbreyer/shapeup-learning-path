@@ -10,6 +10,7 @@ graph TD
         A("🍿 Shaping in a Nutshell")
         SDDC("🎧 Shape Up - Für alle, die Scrum nicht mögen")
         B("📚 Read the free Book")
+        AL("🎧 Ryan Singer // Creator of the Shape Up Method")
     end
 
     subgraph Implementation 
@@ -24,14 +25,16 @@ graph TD
 
 U --> A
 A -->|german?| SDDC
-SDDC --> B
-A --> B
+SDDC --> AL
+A --> AL
 S--> M
 B --> R
 B --> S
 S --> F
 S --> P
+AL --> B
 
+click AL "https://alphalist.com/podcast/65-ryan-singer-creator-of-the-shape-up-method" _blank
 click A "https://www.youtube.com/watch?v=h_8M23wVjXk" _blank
 click SDDC "https://superdev.club/podcasts/shape-up/" _blank
 click B "https://basecamp.com/shapeup" _blank
